@@ -1,3 +1,1 @@
-First run the train.py file and train the dataset
-After Trainning of dataset run datascience.py file it has interface using streamlit
-And if you want interface in normal GUI run the gui.py file
+First, run the train.py file to train the dataset. After training is complete, run the datascience.py file to access the interface using Streamlit. If you prefer a standard GUI instead of a web interface, run the gui.py file.
